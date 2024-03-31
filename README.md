@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bylldgo</h1>
 <h3 align="center">erisgreyrat.com</h3>
-<img align="right" alt="Eris" width="400" src="https://cdn.discordapp.com/attachments/1133102546202935490/1212854902364049570/Hayasaka.png?ex=65f35a26&is=65e0e526&hm=0946ac126f5e0745224724338bca9f4f67257a4428e46d1087de14acece8a0ff&"
+<img align="right" alt="Eris" width="400" src="https://media.discordapp.net/attachments/1133102546202935490/1212854902364049570/Hayasaka.png?ex=66184426&is=6605cf26&hm=c2fb0cd6db9d1d87b9c633f230a2529ee9cbb98dc0f823a08d4b9f2995351c59&=&format=webp&quality=lossless&width=832&height=467"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bylldgo&label=Profile%20views&color=0e75b6&style=flat" alt="bylldgo" /> </p>
 
